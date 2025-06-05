@@ -1,10 +1,11 @@
 # Pawong - 전국 유기동물을 특징으로 검색하세요!
-
----
+[![포옹 ](https://img.shields.io/badge/www.pawong.co.kr-orange)](https://drive.google.com/file/d/1UzJ34UyYbOXChAJ4u866ssVpilTE9n3w/view)  [![발표 자료](https://img.shields.io/badge/발표%20자료-blue)](https://drive.google.com/file/d/1UzJ34UyYbOXChAJ4u866ssVpilTE9n3w/view) 
 
 Pawong(포옹)은 유기동물 입양 희망자를 위해 각 유기동물을 특징으로 검색할 수 있도록 제공하는 서비스입니다.
 더불어 실종 동물이 보호소로 안치되기 전에 조기 발견되도록 실종 동물 공고를 등록할 수 있는 기능을 제공합니다.
 포옹 서비스를 이용해 반려 동물을 사지 말고, 입양하는 문화를 만들어가요!
+
+![image](https://github.com/user-attachments/assets/43958bff-9e4d-4f20-a001-66a9e7a63fae)
 
 ---
 
