@@ -1,5 +1,5 @@
 # Pawong - 전국 유기동물을 특징으로 검색하세요!
-[![포옹 ](https://img.shields.io/badge/www.pawong.co.kr-orange)](https://drive.google.com/file/d/1UzJ34UyYbOXChAJ4u866ssVpilTE9n3w/view)  [![발표 자료](https://img.shields.io/badge/발표%20자료-blue)](https://drive.google.com/file/d/1UzJ34UyYbOXChAJ4u866ssVpilTE9n3w/view) 
+[![포옹 ](https://img.shields.io/badge/www.pawong.co.kr-orange)](https://www.pawong.co.kr)  [![발표 자료](https://img.shields.io/badge/발표%20자료-blue)](https://drive.google.com/file/d/1UzJ34UyYbOXChAJ4u866ssVpilTE9n3w/view) 
 
 ---
 
