@@ -84,3 +84,8 @@ Pawong(포옹)은 유기동물 입양 희망자를 위해 각 유기동물을 �
   + Jira
   + Github
   + Discord
+
+## 시스템 아키텍처
+
+![image](https://github.com/user-attachments/assets/0453c604-d393-46f6-9ffa-a6d2450734d8)
+
